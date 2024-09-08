@@ -44,8 +44,7 @@ If other way don't work, then use this to add it in manually.
 5. Import Textures that are used on your blender object into DNF editor.
 6. Import the file into Unreal Editor with Brush > Import.
 7. Subtract Brush.
-
-8. WHEN IN DUKE NUKEM FOREVER EDITOR: add brush. Import the file into Unreal Editor with Brush > Import. If faces are backwords in editor make sure to go back to blender and wile in edit mode, flip
+8. WHEN IN DUKE NUKEM FOREVER EDITOR: If faces are backwords in DNF editor make sure to go back to blender and wile in edit mode, flip
     all the objects face normals or all that are effected.
 9. WILE STILL IN DUKE NUKEM FOREVER EDITOR and if textures appear to be contorted or stretched incorrectly, to fix this you may want to select all faces > surface properties > align > align by planer.
 
