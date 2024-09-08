@@ -51,7 +51,7 @@ If other way don't work, then use this to add it in manually.
 
 ### SYSTEM REQUIREMENTS
 
-- Blender 2.82 or higher
+- possibly Blender 4.00 or higher
 - Python 3.7+
 
 ### LICENSE
