@@ -40,12 +40,14 @@ If other way don't work, then use this to add it in manually.
 1. In Blender, select the object you want to export.
 2. Open the `T3D` tab from the 3D View sidebar.
 3. Click `Update Material Names` to rename Zero Hour materials of maps imported from zero hour. If your working with a DUKE3D.GRP map from DN3D then use the Update DN3D object material names Button instead.  
-4. Click `Copy T3D to Clipboard` to generate T3D data and copy it to the clipboard. Paste the data from the clipboard into a text document and then save it with a `.t3d` extension.
-5. Import the file into Unreal Editor with Brush > Import.
+4. Click `Copy T3D to Clipboard` to generate T3D data and copy it to the clipboard. Paste the data from the clipboard into a text document and then save it with a `.t3d` extension
+5. Import Textures that are used on your blender object into DNF editor.
+6. Import the file into Unreal Editor with Brush > Import.
+7. Subtract Brush.
 
-6. WHEN IN DUKE NUKEM FOREVER EDITOR: add brush. Import the file into Unreal Editor with Brush > Import. If faces are backwords in editor make sure to go back to blender and wile in edit mode, flip
+8. WHEN IN DUKE NUKEM FOREVER EDITOR: add brush. Import the file into Unreal Editor with Brush > Import. If faces are backwords in editor make sure to go back to blender and wile in edit mode, flip
     all the objects face normals or all that are effected.
-7. WILE STILL IN DUKE NUKEM FOREVER EDITOR and if textures appear to be contorted or stretched incorrectly, to fix this you may want to select all faces > surface properties > align > align by planer.
+9. WILE STILL IN DUKE NUKEM FOREVER EDITOR and if textures appear to be contorted or stretched incorrectly, to fix this you may want to select all faces > surface properties > align > align by planer.
 
 ### SYSTEM REQUIREMENTS
 
